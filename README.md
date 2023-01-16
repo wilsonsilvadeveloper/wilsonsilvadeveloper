@@ -1,14 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0C0C3E&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Wilson+Silva;Eu+tenho+18+anos;Eu+Sou+do+Brasil;Eu+Estou+Me+Formando+em+Engenharia+de+Software;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wilsonsilvadeveloper&bg_color=0c0c3e&color=dbdbdb&line=001466&point=47398e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)!-->
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wilsonsilvadeveloper&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wilson Silva github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonsilvadeveloper&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wilsonsilvadeveloper&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>Tecnologias que estou aprendendo</h2> 
 
@@ -19,7 +20,7 @@
 </div><br/>
 
 
-  ##
+<h2>Redes Socias</h2>
  
 <div> 
   <a href="https://www.youtube.com/channel/UC61YqSJXXjb622yC7vnS2VQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
